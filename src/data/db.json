@@ -1,0 +1,24 @@
+{
+    "products": [
+    {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png",
+    "name": "React",
+    "price": 29.99
+    },
+    {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png",
+    "name": "Python",
+    "price": 49.99
+    },
+    {
+    "image": "https://miro.medium.com/v2/resize:fit:1024/1*jkOCjQlkGZjbhWdvh7LfRA.png",
+    "name": "Java",
+    "price": 29.99
+    },
+    {
+    "image": "https://jmvstream.com/wp-content/uploads/2023/07/HTML-CSS.jpeg",
+    "name": "HTML/CSS",
+    "price": 24.99
+    }
+    ]
+    }
